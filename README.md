@@ -112,7 +112,7 @@ LLM-Analysis-TDS-Project-2/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/saivijayragav/LLM-Analysis-TDS-Project-2.git
+git clone https://github.com/saivineet300/LLM-Analysis-TDS-Project-2.git
 cd LLM-Analysis-TDS-Project-2
 ```
 
@@ -385,11 +385,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-**Author**: Sai Vijay Ragav 
+**Author**: Sai Vineet Kumar
 **Course**: Tools in Data Science (TDS)
 **Institution**: IIT Madras
 
-For questions or issues, please open an issue on the [GitHub repository](https://github.com/saivijayragav/LLM-Analysis-TDS-Project-2).
 =======
 title: Quiz Analyzer
 emoji: 🐢
